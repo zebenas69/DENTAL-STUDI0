@@ -1,4 +1,4 @@
-[zaze.html](https://github.com/user-attachments/files/25460046/zaze.html)
+(https://github.com/user-attachments/files/25460046/zaze.html)
 <!DOCTYPE html>
 <html lang="en">
 <head>
