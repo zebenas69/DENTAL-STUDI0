@@ -1,0 +1,110 @@
+[zaze.html](https://github.com/user-attachments/files/25460046/zaze.html)
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Dental Studio Malawi</title>
+
+<style>
+body{
+    margin:0;
+    font-family: Arial, sans-serif;
+    background:#f4f9ff;
+    color:#333;
+}
+
+header{
+    background:#0077b6;
+    color:white;
+    padding:20px;
+    text-align:center;
+    
+}
+
+nav{
+    background:#023e8a;
+    padding:10px;
+    text-align:center;
+}
+
+nav a{
+    color:white;
+    text-decoration:none;
+    margin:15px;
+    font-weight:bold;
+}
+
+section{
+    padding:40px;
+    text-align:center;
+}
+
+.services{
+    background:white;
+}
+
+footer{
+    background:#0077b6;
+    color:white;
+    text-align:center;
+    padding:15px;
+}
+button{
+    background:#0077b6;
+    color:white;
+    border:none;
+    padding:10px 20px;
+    font-size:16px;
+    cursor:pointer;
+    border-radius:5px;
+}
+button:hover{
+    background:#023e8a;
+}
+</style>
+</head>
+
+<body>
+
+<header>
+    <h1>Dental Studio Malawi</h1>
+    <p>Your Smile, Our Priority 😊</p>
+    <img src="cole.jpeg"
+</header>
+
+<nav>
+    <a href="index.html">Home</a>
+    <a href="rexha.html">Services</a>
+    <a href="contact.html">Contact</a>
+    <a href="lamar.html">Dental online education</a>
+</nav>
+
+<section>
+    <h2>Welcome to Our Clinic</h2>
+    <p>We provide professional and affordable dental care services.</p>
+    <a href="mailto:mayapagift034@gmail.com" class="book">book Appointment</a>
+</section>
+
+<section class="services">
+    <h2>Our Services</h2>
+    <p>✔ Teeth Cleaning</p>
+    <p>✔ Tooth Extraction</p>
+    <p>✔ Braces Installation</p>
+    <p>✔ Teeth Whitening</p>
+</section>
+
+<section>
+    <h2>Contact Us</h2>
+    <p>📍 Malawi</p>
+    <p>📞 0997926766</p>
+    <p>    0885095592</p>
+    <p>📧 Mayapagift034@email.com</p>
+</section>
+
+<footer>
+    <p>© 2026 Dental Studio Malawi. All Rights Reserved.</p>
+</footer>
+
+</body>
+</html>
